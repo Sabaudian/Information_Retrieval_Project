@@ -8,7 +8,7 @@
 ## General Information
 
 - **Python** version is: **3.12.0** (_if you need to download it click on the Python badge_)
-- **requirements.txt** contains all the necessary python packages (_use the command below to install all the pachages_)
+- **requirements.txt** contains all the necessary python packages.
 
 ## (CBIR) COVID-19 search engine
 
