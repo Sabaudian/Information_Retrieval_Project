@@ -1,10 +1,9 @@
-
+# Required Python Packages
 kaggle==1.6.6
-Pillow==10.2.0
+pillow==10.2.0
 matplotlib==3.8.3
 pandas==2.2.1
 numpy==1.26.4
 keras==3.1.1
-tensorflow==2.16.1
 scikit-learn==1.4.1.post1
 seaborn==0.13.2
