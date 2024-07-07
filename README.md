@@ -17,5 +17,5 @@ Content-based image retrieval (CBIR) is a computer vision technique which addres
 Image retrieval has gained more and more relevance in the medical field, due to the accumulation of extensive collections of scans in hospitals. These images are stored in DICOM format, which must be manually annotated and may require considerable time to process by physicians. The goal of this project is trying to address this problem by considering different approaches for building a content-based medical image retrieval system and comparing their results based on classification metrics and computational time.
 
 <p align="center">
-  <img src= "https://github.com/Sabaudian/Information_Retrieval_Project/assets/32509505/7ce01954-f599-406b-8204-42d395c09ee4" width="800" height="800">
+  <img src= "https://github.com/Sabaudian/Information_Retrieval_Project/assets/32509505/7ce01954-f599-406b-8204-42d395c09ee4" width="500" height="500">
 </p>
